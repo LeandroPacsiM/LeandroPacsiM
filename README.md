@@ -1,6 +1,19 @@
-# ¡Hola! Soy Leandro Pacsi
+<h1 align="center">Leandro Pacsi</h1>
 
-### Software Engineering Student @ UTP | Future Java & Angular Specialist | DevOps Learner
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+<p align="center">
+  <strong>Software Engineering Student @ UTP</strong><br>
+  Future Java & Angular Specialist | DevOps Learner
+</p>
+
+--
 
 Estudiante de **Ingeniería de Software (7° ciclo)** enfocado en el desarrollo Full Stack y la cultura DevOps. Mi meta para mediados de 2026 es consolidarme en el despliegue de soluciones robustas en la nube, integrando la potencia de **Java/Spring Boot** con la versatilidad de **Angular**.
 
