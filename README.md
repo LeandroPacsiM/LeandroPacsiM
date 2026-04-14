@@ -1,4 +1,4 @@
-# ¡Hola! Soy Leandro Pacsi y esta es mi cuenta institucional de la UTP
+# ¡Hola! Soy Leandro Pacsi
 
 ### Software Engineering Student @ UTP | Future Java & Angular Specialist | DevOps Learner
 
