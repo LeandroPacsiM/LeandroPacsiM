@@ -15,7 +15,7 @@
 
 --
 
-Estudiante de **Ingeniería de Software (7° ciclo)** enfocado en el desarrollo Full Stack y la cultura DevOps. Mi meta para mediados de 2026 es consolidarme en el despliegue de soluciones robustas en la nube, integrando la potencia de **Java/Spring Boot** con la versatilidad de **Angular**.
+Actualmente  estoy en la facultad de **Ingeniería de Software  7° ciclo ** enfocado en el desarrollo Full Stack y la cultura DevOps. Mi meta para mediados de 2026 es consolidarme en el despliegue de soluciones robustas en la nube, integrando la potencia de **Java/Spring Boot** con la versatilidad de **Angular**.
 
 ---
 
