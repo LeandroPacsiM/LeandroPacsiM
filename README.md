@@ -30,33 +30,6 @@ Actualmente  estoy en la facultad de **Ingeniería de Software  7° ciclo ** enf
 
 ---
 
-### 🛠️ Tech Stack & Learning Path
-
-#### Backend & Core
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### Frontend & UI
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=threedotjs&logoColor=white)
-
-#### Infraestructura & DevOps (En progreso 🏗️)
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
----
-
-### 📌 Áreas de Interés
-- **Estandarización:** Aplicación de conceptos de **Arquitectura Hexagonal** y Patrones de Diseño.
-- **Eficiencia:** Uso de **OpenCode**, **GitHub Copilot** y **Ollama** para acelerar el desarrollo.
-- **Escalabilidad:** Implementación de DTOs, Mappers y servicios desacoplados.
-
----
-
 ### 📫 Conectemos
 - **LinkedIn:** [leandropacsi27](https://www.linkedin.com/in/leandropacsi27/)
 - **Email:** [u19218678@utp.edu.pe](mailto:u19218678@utp.edu.pe) | [leandropacsi27@gmail.com](mailto:leandropacsi27@gmail.com)
