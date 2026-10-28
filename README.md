@@ -4,8 +4,6 @@
   <strong>Software Engineering Student @ UTP</strong><br>
 </p>
 
---
-
 Actualmente  estoy en la facultad de **Ingeniería de Software  8° ciclo **.
 
 ---
